@@ -1,4 +1,4 @@
-# Este repositorio contiene los pasos para añadir seguridad a un mismo proyecto de 3 formas diferentes.
+# Este repositorio contiene los pasos para añadir seguridad de 4 formas diferentes.
 
 #Control clientes contiene la seguridad basica y una configuracion manual
 
